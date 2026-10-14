@@ -22,8 +22,11 @@
 ### Develop a suitable directed graph and search tree based on the map presented in class of Kenya’s Highway Network featuring cities and towns in the Nairobi, Central Highlands, Rift Valley and Lake Victoria Basin regions. For reference, you can use this Google Maps view to generate the graph and tree. The tree should apply the concept of abstraction as discussed in class.
 
 #### Directed Graph
+
 ![Directed Graph](AI_Q2_DirectedGraph.png)
+
 #### Search Tree
+
 ![Tree](AI%20_Q2_Tree.png)
 
 ## Q3
@@ -31,10 +34,13 @@
 ### Using distance between towns as the path cost function, determine the optimal path the trailer can take from Nairobi to Kisumu. Calculate the distance between towns using this Google Maps search feature.
 
 #### Cost Graph
+
 ![Cost Graph](AI_Q2_CostGraph.png)
 
 #### Calculations
 
+Optimal path (Nairobi to Kisumu) = Nairobi -> Nakuru -> Kericho -> Kisumu = 160 + 107 + 83 = 350 km
 
 ## Team Photo
+
 ![Team Photo](team_photo_2.png)
