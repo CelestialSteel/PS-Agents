@@ -1,17 +1,17 @@
 ## Q1
 ### Design the agent using the PEAS framework and further define its environment using the 5 definitions of agent environments.
 #### PEAS 
-- Performance Measure (P) -> 
-- Environment (E) -> 
-- Actuators (A) -> 
-- Sensors (S) ->  
+- Performance Measure (P) -> Covers the shortest distance possible between the starting point and the destination.
+- Environment (E) -> The physical road network, pedestrians, cars, traffic lights, traffic police etc.
+- Actuators (A) -> Steering Wheel, wheels, accelerator, brakes, indicators, lights and horn.
+- Sensors (S) ->  Camera, LIDAR sensors, GPS module and speedometer.
 
 #### Agent Environments
-- Fully observable / Partially observable ->
-- Deterministic / Stochastic ->
-- Episodic / Sequential ->
-- Static / Dynamic ->
-- Single Agent / Multi Agent ->
+- Partially observable ->
+- Stochastic ->
+- Sequential ->
+- Dynamic ->
+- Single Agent ->
 
 ## Q2
 ### Develop a suitable directed graph and search tree based on the map presented in class of Kenya’s Highway Network featuring cities and towns in the Nairobi, Central Highlands, Rift Valley and Lake Victoria Basin regions. For reference, you can use this Google Maps view to generate the graph and tree. The tree should apply the concept of abstraction as discussed in class.
