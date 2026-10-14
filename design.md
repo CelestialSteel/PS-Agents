@@ -1,10 +1,10 @@
 ## Q1
 ### Design the agent using the PEAS framework and further define its environment using the 5 definitions of agent environments.
 #### PEAS 
-- Performance Measure (P) ->
-- Environment (E) ->
-- Actuators (A) ->
-- Sensors (S) ->   
+- Performance Measure (P) -> 
+- Environment (E) -> 
+- Actuators (A) -> 
+- Sensors (S) ->  
 
 #### Agent Environments
 - Fully observable / Partially observable ->
