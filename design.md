@@ -31,3 +31,10 @@
 ### Using distance between towns as the path cost function, determine the optimal path the trailer can take from Nairobi to Kisumu. Calculate the distance between towns using this Google Maps search feature.
 
 #### Cost Graph
+![Cost Graph](AI_Q2_CostGraph.png)
+
+#### Calculations
+
+
+## Team Photo
+![Team Photo](team_photo_2.png)
