@@ -25,7 +25,6 @@
 
 #### Search Tree
 
-_Note_ -> Abstraction: involves leaving out irrelevant information i.e. consider states and actions that contribute to solving the search problem. e.g. trailer from Nairobi to Nyahururu shouldn’t consider the Nyeri route since it’s longer.
 
 ## Q3
 
